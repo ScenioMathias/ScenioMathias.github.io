@@ -1,10 +1,5 @@
 ## Hi! 👋 Welcome!
 
-<body>
-<h1>Linear Gradient</h1>
-<p>This linear gradient starts as dark blue at the top left and transitions from pink to orange at the bottom right.</p>
-</body>
-
 <h3> About me </h3>
 
 - 🤔 &nbsp; Computer Science Student at UNEMAT - State University of Mato Grosso, emphasis on
