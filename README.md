@@ -1,6 +1,6 @@
 ## Hi! 👋 Welcome!
 
-<h3> About me </h3>
+<h2> About me </h2>
 
 - 🤔 &nbsp; Computer Science Student at UNEMAT - State University of Mato Grosso, emphasis on
 information Technology.
@@ -13,7 +13,7 @@ ensuring compliance with deadlines, costs and quality required by the organizati
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/ScenioMathias)](https://www.linkedin.com/in/scenio-mathias-6a88a2149/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/ScenioMathias)](scenio123araujo@gmail.com)
 [![ResearchGate Badge](https://img.shields.io/badge/-Researchgate-blue?style=for-the-badge&logo=Researchgate&logoColor=white&link=https://github.com/ScenioMathias)](https://www.researchgate.net/profile/Scenio-Araujo)
-</h4>
+
 
 ## ⭐ Information about my GitHub account
 <div>
