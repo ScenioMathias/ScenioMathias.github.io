@@ -1,5 +1,10 @@
 ## Hi! 👋 Welcome!
 
+<body>
+<h1>Linear Gradient</h1>
+<p>This linear gradient starts as dark blue at the top left and transitions from pink to orange at the bottom right.</p>
+</body>
+
 <h3> About me </h3>
 
 - 🤔 &nbsp; Computer Science Student at UNEMAT - State University of Mato Grosso, emphasis on
@@ -22,13 +27,10 @@ ensuring compliance with deadlines, costs and quality required by the organizati
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScenioMathias&layout=compact&langs_count=16&theme=dracula"/><br></a>
 </div>
 
-###
-
 <div>
     <img src="https://img.shields.io/static/v1?label=Overview&message=SCENIO&color=f8efd4&style=for-the-badge&logo=GitHub">
 </div>
 
-###
 
 <div>
 <p>
