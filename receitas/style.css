@@ -29,6 +29,13 @@ main {
     justify-content: center;
 }
 
+Ajust {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    justify-content: center;
+}
+
 footer {
     display: flex;
     justify-content: center;
